@@ -1,0 +1,53 @@
+Treatment,Level,Total
+"Cetuximab,Panitumumab(KRAS)","Level R1",297
+"Not provided","Level R1",414
+"Cetuximab,Panitumumab(NRAS)","Level R1",21
+"Cetuximab,Panitumumab(KRAS);Cetuximab,Panitumumab(NRAS)","Level R1",1
+"Cetuximab,Panitumumab(KRAS);Cetuximab,Panitumumab(KRAS)","Level R1",2
+"Not provided","Level 2B",635
+"Crizotinib(MET Amplification)","Level 2B",8
+"Dabrafenib,Vemurafenib+Cobimetinib,Trametinib,Trametinib+Dabrafenib,Vemurafenib(BRAF)","Level 2B",44
+"ado-trastuzumab emtansine,Trastuzumab+Pertuzumab,Lapatinib,Trastuzumab(ERBB2 Amplification)","Level 2B",29
+"Erlotinib,Gefitinib,Afatinib(EGFR)","Level 2B",2
+Olaparib(BRCA2),"Level 2B",7
+"Dabrafenib,Vemurafenib+Cobimetinib,Trametinib,Trametinib+Dabrafenib,Vemurafenib(BRAF);Olaparib(BRCA2)","Level 2B",2
+Olaparib(BRCA2);Olaparib(BRCA2),"Level 2B",1
+Everolimus(TSC2),"Level 2B",2
+Everolimus(TSC1),"Level 2B",2
+Olaparib(BRCA1);Olaparib(BRCA1),"Level 2B",1
+"ado-trastuzumab emtansine,Trastuzumab+Pertuzumab,Lapatinib,Trastuzumab(ERBB2 Amplification);Crizotinib(MET Amplification)","Level 2B",1
+Crizotinib(MET);Everolimus(TSC1);Olaparib(BRCA2),"Level 2B",1
+"Not provided","Level 3A",729
+"LOXO-101,Entrectinib(NTRK3 LEVEL_3B)","Level 3A",1
+Panitumumab(EGFR),"Level 3A",1
+"LOXO-101(NTRK1 LEVEL_3A)","Level 3A",4
+"Not provided","Level 3B",528
+"Sonidegib,Vismodegib(PTCH1)","Level 3B",3
+"Binimetinib+Ribociclib,Selumetinib+Radioiodine Uptake Therapy,Binimetinib(NRAS)","Level 3B",19
+"AZD4547,Dovitinib(FGFR1 Amplification)","Level 3B",11
+"Lapatinib+Trastuzumab,Neratinib(ERBB2 Amplification)","Level 3B",24
+alpelisib(PIK3CA),"Level 3B",100
+Neratinib(ERBB2),"Level 3B",5
+"Lapatinib+Trastuzumab,Neratinib(ERBB2 Amplification);Neratinib(ERBB2)","Level 3B",4
+"Cobimetinib,Trametinib,Selumetinib(MAP2K1)","Level 3B",5
+"AZD4547,Dovitinib(FGFR1 Amplification);alpelisib(PIK3CA)","Level 3B",2
+alpelisib(PIK3CA);alpelisib(PIK3CA),"Level 3B",6
+"LEVEL_3B(NTRK3 LEVEL_3B)","Level 3B",1
+Trametinib(BRAF),"Level 3B",1
+"Cobimetinib,Trametinib,Selumetinib(MAP2K1);alpelisib(PIK3CA)","Level 3B",1
+AZD5363(AKT1),"Level 3B",5
+"Lapatinib+Trastuzumab,Neratinib(ERBB2 Amplification);alpelisib(PIK3CA)","Level 3B",2
+"Sorafenib,Sorafenib(ARAF)","Level 3B",1
+Crizotinib(ALK),"Level 3B",1
+"alpelisib(PIK3CA);alpelisib(PIK3CA);Sonidegib,Vismodegib(PTCH1)","Level 3B",1
+"Binimetinib+Ribociclib,Selumetinib+Radioiodine Uptake Therapy,Binimetinib(NRAS);alpelisib(PIK3CA)","Level 3B",1
+"AZD5363(AKT1);Binimetinib+Ribociclib,Selumetinib+Radioiodine Uptake Therapy,Binimetinib(NRAS)","Level 3B",1
+AG-120(IDH1),"Level 3B",2
+"Entrectinib(NTRK1 LEVEL_3A)","Level 3B",4
+"Binimetinib+Ribociclib,Selumetinib+Radioiodine Uptake Therapy,Binimetinib(NRAS);Cobimetinib,Trametinib,Selumetinib(MAP2K1)","Level 3B",1
+"alpelisib(PIK3CA);Sonidegib,Vismodegib(PTCH1)","Level 3B",1
+"Cobimetinib,Trametinib,Selumetinib(MAP2K1);Cobimetinib,Trametinib,Selumetinib(MAP2K1)","Level 3B",1
+"alpelisib(PIK3CA);Capmatinib,Cabozatinib(MET)","Level 3B",1
+AG-221(IDH2),"Level 3B",1
+alpelisib(PIK3CA);Trametinib(BRAF),"Level 3B",1
+alpelisib(PIK3CA);AG-221(IDH2),"Level 3B",1

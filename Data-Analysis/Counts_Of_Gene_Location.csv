@@ -1,0 +1,123 @@
+Treatment,Level,Total
+"KRAS p.A146T","Level R1",20
+"KRAS p.G12C","Level R1",24
+"Not provided","Level R1",414
+"KRAS p.G12D","Level R1",92
+"NRAS p.Q61L","Level R1",4
+"KRAS p.G12V","Level R1",61
+"KRAS p.G13D","Level R1",47
+"KRAS p.V14I","Level R1",1
+"KRAS p.Q61H","Level R1",6
+"NRAS p.Q61K","Level R1",8
+"KRAS p.G12R","Level R1",4
+"NRAS p.G12D","Level R1",5
+"KRAS p.G12A","Level R1",14
+"KRAS p.G12S","Level R1",13
+"KRAS p.K117N","Level R1",5
+"KRAS p.A146V","Level R1",4
+"KRAS p.G12F","Level R1",1
+"NRAS p.G12V","Level R1",1
+"KRAS p.G13C","Level R1",2
+"NRAS p.G12C","Level R1",3
+"KRAS p.G12A;NRAS p.Q61K","Level R1",1
+"KRAS p.D33E","Level R1",1
+"KRAS p.Q61R","Level R1",2
+"KRAS p.G12V;KRAS p.G12A","Level R1",1
+"KRAS p.G12V;KRAS p.D33E","Level R1",1
+"Not provided","Level 2B",635
+"MET Amplification","Level 2B",8
+"BRAF p.V600E","Level 2B",44
+"ERBB2 Amplification","Level 2B",29
+"EGFR p.L861Q","Level 2B",2
+"BRCA2 p.D1868Vfs*5","Level 2B",1
+"BRCA2 p.Q1551*","Level 2B",1
+"BRAF p.V600E;BRCA2 p.T3085Nfs*26","Level 2B",1
+"BRCA2 p.S1442*","Level 2B",1
+"BRCA2 p.X3215_splice","Level 2B",1
+"BRCA2 p.F1978Lfs*26;BRCA2 p.K3416Nfs*11","Level 2B",1
+"BRCA2 p.L1545Rfs*3","Level 2B",1
+"TSC2 p.X325_splice","Level 2B",1
+"TSC1 p.X122_splice","Level 2B",1
+"BRAF p.V600E;BRCA2 p.K3416Nfs*11","Level 2B",1
+"BRCA2 p.T1359Yfs*2","Level 2B",1
+"TSC2 p.W896del","Level 2B",1
+"TSC1 p.N891Kfs*13","Level 2B",1
+"BRCA1 p.L1564P;BRCA1 p.Q210Sfs*6","Level 2B",1
+"ERBB2 Amplification;MET Amplification","Level 2B",1
+"BRCA2 p.L638*","Level 2B",1
+"MET p.X1087_splice;TSC1 p.E218*;BRCA2 p.K3032*","Level 2B",1
+"Not provided","Level 3A",729
+"NTRK3 LEVEL_3B","Level 3A",1
+"EGFR p.S492R","Level 3A",1
+"NTRK1 LEVEL_3A","Level 3A",4
+"Not provided","Level 3B",528
+"PTCH1 p.E992*","Level 3B",1
+"NRAS p.Q61L","Level 3B",4
+"FGFR1 Amplification","Level 3B",11
+"ERBB2 Amplification","Level 3B",24
+"PIK3CA p.E545K","Level 3B",38
+"PIK3CA p.C420R","Level 3B",2
+"ERBB2 p.I767M","Level 3B",1
+"PIK3CA p.E542K","Level 3B",17
+"PIK3CA p.R38C","Level 3B",3
+"ERBB2 Amplification;ERBB2 p.V842I","Level 3B",2
+"PIK3CA p.Q546K","Level 3B",6
+"MAP2K1 p.K57E","Level 3B",2
+"PIK3CA p.E365K","Level 3B",2
+"PIK3CA p.H1047R","Level 3B",10
+"FGFR1 Amplification;PIK3CA p.E542K","Level 3B",2
+"NRAS p.Q61K","Level 3B",6
+"PIK3CA p.N345K","Level 3B",2
+"PIK3CA p.E542K;PIK3CA p.M1043I","Level 3B",1
+"PIK3CA p.H1047R;PIK3CA p.G118D","Level 3B",1
+"PIK3CA p.Q546K;PIK3CA p.E726K","Level 3B",1
+"NTRK3 LEVEL_3B","Level 3B",1
+"NRAS p.G12D","Level 3B",5
+"PIK3CA p.H1047Y","Level 3B",1
+"MAP2K1 p.K57N","Level 3B",1
+"PIK3CA p.H1047R;PIK3CA p.R93Q","Level 3B",1
+"BRAF p.K601E","Level 3B",1
+"MAP2K1 p.K57T;PIK3CA p.*1069F","Level 3B",1
+"AKT1 p.E17K","Level 3B",5
+"ERBB2 p.S310F","Level 3B",1
+"ERBB2 Amplification;PIK3CA p.G1049R","Level 3B",1
+"PTCH1 p.L39Cfs*41","Level 3B",1
+"PIK3CA p.E545K;PIK3CA p.E542K","Level 3B",1
+"ARAF p.S214P","Level 3B",1
+"ALK p.R1275Q","Level 3B",1
+"MAP2K1 p.E203K","Level 3B",1
+"PIK3CA p.Q546P","Level 3B",2
+"PIK3CA p.G1049R","Level 3B",2
+"ERBB2 Amplification;PIK3CA p.H1047R","Level 3B",1
+"NRAS p.G12V","Level 3B",1
+"PIK3CA p.N345I","Level 3B",1
+"ERBB2 Amplification;ERBB2 p.V777L","Level 3B",2
+"PIK3CA p.M1043L","Level 3B",1
+"PIK3CA p.E545G","Level 3B",2
+"NRAS p.G12C","Level 3B",3
+"PIK3CA p.H1047R;PIK3CA p.R88Q;PTCH1 p.P1202Lfs*53","Level 3B",1
+"ERBB2 p.V842I","Level 3B",1
+"NRAS p.Q61K;PIK3CA p.N345K","Level 3B",1
+"AKT1 p.E17K;NRAS p.Q61K","Level 3B",1
+"IDH1 p.R132C","Level 3B",2
+"NTRK1 LEVEL_3A","Level 3B",4
+"NRAS p.Q61K;MAP2K1 p.G128V","Level 3B",1
+"PIK3CA p.G106_R108del","Level 3B",1
+"PIK3CA p.R38H;PTCH1 p.C454Ffs*2","Level 3B",1
+"MAP2K1 p.E102_I103del;MAP2K1 p.E102_I103del","Level 3B",1
+"PIK3CA p.G118D","Level 3B",2
+"PIK3CA p.R88Q","Level 3B",2
+"PIK3CA p.R108H","Level 3B",2
+"PIK3CA p.E453K","Level 3B",1
+"MAP2K1 p.Y130C","Level 3B",1
+"PTCH1 p.S1203Afs*52","Level 3B",1
+"PIK3CA p.R38H;MET p.X1087_splice","Level 3B",1
+"ERBB2 p.V777L","Level 3B",1
+"PIK3CA p.G106R","Level 3B",1
+"PIK3CA p.H1047R;PIK3CA p.Q546R","Level 3B",1
+"IDH2 p.R172K","Level 3B",1
+"PIK3CA p.Q546R","Level 3B",1
+"PIK3CA p.E545K;BRAF p.K601E","Level 3B",1
+"PIK3CA p.C378R","Level 3B",1
+"PIK3CA p.E542K;IDH2 p.R172K","Level 3B",1
+"ERBB2 p.D769Y","Level 3B",1

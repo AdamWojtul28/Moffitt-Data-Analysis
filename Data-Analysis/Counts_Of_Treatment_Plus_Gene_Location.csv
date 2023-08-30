@@ -1,0 +1,123 @@
+Treatment,Level,Total
+"Cetuximab,Panitumumab(KRAS p.A146T)","Level R1",20
+"Cetuximab,Panitumumab(KRAS p.G12C)","Level R1",24
+,"Level R1",414
+"Cetuximab,Panitumumab(KRAS p.G12D)","Level R1",92
+"Cetuximab,Panitumumab(NRAS p.Q61L)","Level R1",4
+"Cetuximab,Panitumumab(KRAS p.G12V)","Level R1",61
+"Cetuximab,Panitumumab(KRAS p.G13D)","Level R1",47
+"Cetuximab,Panitumumab(KRAS p.V14I)","Level R1",1
+"Cetuximab,Panitumumab(KRAS p.Q61H)","Level R1",6
+"Cetuximab,Panitumumab(NRAS p.Q61K)","Level R1",8
+"Cetuximab,Panitumumab(KRAS p.G12R)","Level R1",4
+"Cetuximab,Panitumumab(NRAS p.G12D)","Level R1",5
+"Cetuximab,Panitumumab(KRAS p.G12A)","Level R1",14
+"Cetuximab,Panitumumab(KRAS p.G12S)","Level R1",13
+"Cetuximab,Panitumumab(KRAS p.K117N)","Level R1",5
+"Cetuximab,Panitumumab(KRAS p.A146V)","Level R1",4
+"Cetuximab,Panitumumab(KRAS p.G12F)","Level R1",1
+"Cetuximab,Panitumumab(NRAS p.G12V)","Level R1",1
+"Cetuximab,Panitumumab(KRAS p.G13C)","Level R1",2
+"Cetuximab,Panitumumab(NRAS p.G12C)","Level R1",3
+"Cetuximab,Panitumumab(KRAS p.G12A);Cetuximab,Panitumumab(NRAS p.Q61K)","Level R1",1
+"Cetuximab,Panitumumab(KRAS p.D33E)","Level R1",1
+"Cetuximab,Panitumumab(KRAS p.Q61R)","Level R1",2
+"Cetuximab,Panitumumab(KRAS p.G12V);Cetuximab,Panitumumab(KRAS p.G12A)","Level R1",1
+"Cetuximab,Panitumumab(KRAS p.G12V);Cetuximab,Panitumumab(KRAS p.D33E)","Level R1",1
+,"Level 2B",635
+"Crizotinib(MET Amplification)","Level 2B",8
+"Dabrafenib,Vemurafenib+Cobimetinib,Trametinib,Trametinib+Dabrafenib,Vemurafenib(BRAF p.V600E)","Level 2B",44
+"ado-trastuzumab emtansine,Trastuzumab+Pertuzumab,Lapatinib,Trastuzumab(ERBB2 Amplification)","Level 2B",29
+"Erlotinib,Gefitinib,Afatinib(EGFR p.L861Q)","Level 2B",2
+"Olaparib(BRCA2 p.D1868Vfs*5)","Level 2B",1
+"Olaparib(BRCA2 p.Q1551*)","Level 2B",1
+"Dabrafenib,Vemurafenib+Cobimetinib,Trametinib,Trametinib+Dabrafenib,Vemurafenib(BRAF p.V600E);Olaparib(BRCA2 p.T3085Nfs*26)","Level 2B",1
+"Olaparib(BRCA2 p.S1442*)","Level 2B",1
+"Olaparib(BRCA2 p.X3215_splice)","Level 2B",1
+"Olaparib(BRCA2 p.F1978Lfs*26);Olaparib(BRCA2 p.K3416Nfs*11)","Level 2B",1
+"Olaparib(BRCA2 p.L1545Rfs*3)","Level 2B",1
+"Everolimus(TSC2 p.X325_splice)","Level 2B",1
+"Everolimus(TSC1 p.X122_splice)","Level 2B",1
+"Dabrafenib,Vemurafenib+Cobimetinib,Trametinib,Trametinib+Dabrafenib,Vemurafenib(BRAF p.V600E);Olaparib(BRCA2 p.K3416Nfs*11)","Level 2B",1
+"Olaparib(BRCA2 p.T1359Yfs*2)","Level 2B",1
+"Everolimus(TSC2 p.W896del)","Level 2B",1
+"Everolimus(TSC1 p.N891Kfs*13)","Level 2B",1
+"Olaparib(BRCA1 p.L1564P);Olaparib(BRCA1 p.Q210Sfs*6)","Level 2B",1
+"ado-trastuzumab emtansine,Trastuzumab+Pertuzumab,Lapatinib,Trastuzumab(ERBB2 Amplification);Crizotinib(MET Amplification)","Level 2B",1
+"Olaparib(BRCA2 p.L638*)","Level 2B",1
+"Crizotinib(MET p.X1087_splice);Everolimus(TSC1 p.E218*);Olaparib(BRCA2 p.K3032*)","Level 2B",1
+,"Level 3A",729
+"LOXO-101,Entrectinib(NTRK3 LEVEL_3B)","Level 3A",1
+"Panitumumab(EGFR p.S492R)","Level 3A",1
+"LOXO-101(NTRK1 LEVEL_3A)","Level 3A",4
+,"Level 3B",528
+"Sonidegib,Vismodegib(PTCH1 p.E992*)","Level 3B",1
+"Binimetinib+Ribociclib,Selumetinib+Radioiodine Uptake Therapy,Binimetinib(NRAS p.Q61L)","Level 3B",4
+"AZD4547,Dovitinib(FGFR1 Amplification)","Level 3B",11
+"Lapatinib+Trastuzumab,Neratinib(ERBB2 Amplification)","Level 3B",24
+"alpelisib(PIK3CA p.E545K)","Level 3B",38
+"alpelisib(PIK3CA p.C420R)","Level 3B",2
+"Neratinib(ERBB2 p.I767M)","Level 3B",1
+"alpelisib(PIK3CA p.E542K)","Level 3B",17
+"alpelisib(PIK3CA p.R38C)","Level 3B",3
+"Lapatinib+Trastuzumab,Neratinib(ERBB2 Amplification);Neratinib(ERBB2 p.V842I)","Level 3B",2
+"alpelisib(PIK3CA p.Q546K)","Level 3B",6
+"Cobimetinib,Trametinib,Selumetinib(MAP2K1 p.K57E)","Level 3B",2
+"alpelisib(PIK3CA p.E365K)","Level 3B",2
+"alpelisib(PIK3CA p.H1047R)","Level 3B",10
+"AZD4547,Dovitinib(FGFR1 Amplification);alpelisib(PIK3CA p.E542K)","Level 3B",2
+"Binimetinib+Ribociclib,Selumetinib+Radioiodine Uptake Therapy,Binimetinib(NRAS p.Q61K)","Level 3B",6
+"alpelisib(PIK3CA p.N345K)","Level 3B",2
+"alpelisib(PIK3CA p.E542K);alpelisib(PIK3CA p.M1043I)","Level 3B",1
+"alpelisib(PIK3CA p.H1047R);alpelisib(PIK3CA p.G118D)","Level 3B",1
+"alpelisib(PIK3CA p.Q546K);alpelisib(PIK3CA p.E726K)","Level 3B",1
+"LEVEL_3B(NTRK3 LEVEL_3B)","Level 3B",1
+"Binimetinib+Ribociclib,Selumetinib+Radioiodine Uptake Therapy,Binimetinib(NRAS p.G12D)","Level 3B",5
+"alpelisib(PIK3CA p.H1047Y)","Level 3B",1
+"Cobimetinib,Trametinib,Selumetinib(MAP2K1 p.K57N)","Level 3B",1
+"alpelisib(PIK3CA p.H1047R);alpelisib(PIK3CA p.R93Q)","Level 3B",1
+"Trametinib(BRAF p.K601E)","Level 3B",1
+"Cobimetinib,Trametinib,Selumetinib(MAP2K1 p.K57T);alpelisib(PIK3CA p.*1069F)","Level 3B",1
+"AZD5363(AKT1 p.E17K)","Level 3B",5
+"Neratinib(ERBB2 p.S310F)","Level 3B",1
+"Lapatinib+Trastuzumab,Neratinib(ERBB2 Amplification);alpelisib(PIK3CA p.G1049R)","Level 3B",1
+"Sonidegib,Vismodegib(PTCH1 p.L39Cfs*41)","Level 3B",1
+"alpelisib(PIK3CA p.E545K);alpelisib(PIK3CA p.E542K)","Level 3B",1
+"Sorafenib,Sorafenib(ARAF p.S214P)","Level 3B",1
+"Crizotinib(ALK p.R1275Q)","Level 3B",1
+"Cobimetinib,Trametinib,Selumetinib(MAP2K1 p.E203K)","Level 3B",1
+"alpelisib(PIK3CA p.Q546P)","Level 3B",2
+"alpelisib(PIK3CA p.G1049R)","Level 3B",2
+"Lapatinib+Trastuzumab,Neratinib(ERBB2 Amplification);alpelisib(PIK3CA p.H1047R)","Level 3B",1
+"Binimetinib+Ribociclib,Selumetinib+Radioiodine Uptake Therapy,Binimetinib(NRAS p.G12V)","Level 3B",1
+"alpelisib(PIK3CA p.N345I)","Level 3B",1
+"Lapatinib+Trastuzumab,Neratinib(ERBB2 Amplification);Neratinib(ERBB2 p.V777L)","Level 3B",2
+"alpelisib(PIK3CA p.M1043L)","Level 3B",1
+"alpelisib(PIK3CA p.E545G)","Level 3B",2
+"Binimetinib+Ribociclib,Selumetinib+Radioiodine Uptake Therapy,Binimetinib(NRAS p.G12C)","Level 3B",3
+"alpelisib(PIK3CA p.H1047R);alpelisib(PIK3CA p.R88Q);Sonidegib,Vismodegib(PTCH1 p.P1202Lfs*53)","Level 3B",1
+"Neratinib(ERBB2 p.V842I)","Level 3B",1
+"Binimetinib+Ribociclib,Selumetinib+Radioiodine Uptake Therapy,Binimetinib(NRAS p.Q61K);alpelisib(PIK3CA p.N345K)","Level 3B",1
+"AZD5363(AKT1 p.E17K);Binimetinib+Ribociclib,Selumetinib+Radioiodine Uptake Therapy,Binimetinib(NRAS p.Q61K)","Level 3B",1
+"AG-120(IDH1 p.R132C)","Level 3B",2
+"Entrectinib(NTRK1 LEVEL_3A)","Level 3B",4
+"Binimetinib+Ribociclib,Selumetinib+Radioiodine Uptake Therapy,Binimetinib(NRAS p.Q61K);Cobimetinib,Trametinib,Selumetinib(MAP2K1 p.G128V)","Level 3B",1
+"alpelisib(PIK3CA p.G106_R108del)","Level 3B",1
+"alpelisib(PIK3CA p.R38H);Sonidegib,Vismodegib(PTCH1 p.C454Ffs*2)","Level 3B",1
+"Cobimetinib,Trametinib,Selumetinib(MAP2K1 p.E102_I103del);Cobimetinib,Trametinib,Selumetinib(MAP2K1 p.E102_I103del)","Level 3B",1
+"alpelisib(PIK3CA p.G118D)","Level 3B",2
+"alpelisib(PIK3CA p.R88Q)","Level 3B",2
+"alpelisib(PIK3CA p.R108H)","Level 3B",2
+"alpelisib(PIK3CA p.E453K)","Level 3B",1
+"Cobimetinib,Trametinib,Selumetinib(MAP2K1 p.Y130C)","Level 3B",1
+"Sonidegib,Vismodegib(PTCH1 p.S1203Afs*52)","Level 3B",1
+"alpelisib(PIK3CA p.R38H);Capmatinib,Cabozatinib(MET p.X1087_splice)","Level 3B",1
+"Neratinib(ERBB2 p.V777L)","Level 3B",1
+"alpelisib(PIK3CA p.G106R)","Level 3B",1
+"alpelisib(PIK3CA p.H1047R);alpelisib(PIK3CA p.Q546R)","Level 3B",1
+"AG-221(IDH2 p.R172K)","Level 3B",1
+"alpelisib(PIK3CA p.Q546R)","Level 3B",1
+"alpelisib(PIK3CA p.E545K);Trametinib(BRAF p.K601E)","Level 3B",1
+"alpelisib(PIK3CA p.C378R)","Level 3B",1
+"alpelisib(PIK3CA p.E542K);AG-221(IDH2 p.R172K)","Level 3B",1
+"Neratinib(ERBB2 p.D769Y)","Level 3B",1
